@@ -33,13 +33,17 @@ border-bottom:solid #cccccc 5px;
     body{
         background-image: url("../images/lines.png");
     margin:0px;
+   
+
 }
     
     .section{float:left;
         background-color:#ffffff;
         border: solid #dddddd 2px;
     font-family:Arial, Helvetica, sans-serif;
-   width:960px;}
+   width:960px;
+   
+}
     
     #mike{
         float:left;
@@ -60,6 +64,14 @@ form{padding:25px;
 }
 footer{background-color:#666666;
     border-top: 8px solid #4aaaa5;
-    position:bottom;
+    clear:both;
+    color:#cccccc;
+    text-align:center;
+    margin-top:50px;
     
+
+
+
+   
+
 }
