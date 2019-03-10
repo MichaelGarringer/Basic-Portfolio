@@ -22,6 +22,12 @@ h1{font-family:Georgia, 'Times New Roman', Times, serif;
         margin-right:20px;
         padding-bottom:10px;
     }
+    a{color:#777777;}
+    a:link{text-decoration:none;
+    color:none;}
+a:visited{text-decoration:none;
+color;
+}
     nav{width:99%;
     padding:25px;
     background-color:#ffffff;
@@ -33,7 +39,7 @@ color:#777777;
 }
     
     body{
-        background-image: url("../images/lines.png");
+        background-image: url("../images/white-waves.png");
     margin:0px;
 
    
